@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "NetMan"
-  spec.version      = "1.0.4"
+  spec.version      = "1.0.8"
   spec.summary      = "AFN封装而成的一个网络请求工具"
 
   # This description is used to generate tags and improve search results.
